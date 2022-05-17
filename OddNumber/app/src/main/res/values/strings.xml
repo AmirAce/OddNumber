@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">OddNumber</string>
+    <string name="GoButton">Go</string>
+    <string name="enter_a_number">Enter a Number:</string>
+</resources>
